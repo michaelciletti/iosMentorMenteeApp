@@ -1,0 +1,2 @@
+# MinedMindsIOSApp
+# MinedMindsApp
